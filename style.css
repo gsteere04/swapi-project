@@ -1,0 +1,33 @@
+body {
+    background-color: #1f1f11;
+    
+}
+
+
+.container {
+    display: flex;
+    background-color: royalblue;
+    justify-content: center;
+    padding: 1em;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    display: flex;
+    background-color: lightblue;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+    color: darkred;
+    padding: 1em
+    ;
+}
